@@ -1,0 +1,1 @@
+[22-Aug-2013 23:45:19] PHP Fatal error:  Call to undefined function  get_header() in /home/u2953447/public_html/cms/wp-content/themes/opencycle/index.php on line 17

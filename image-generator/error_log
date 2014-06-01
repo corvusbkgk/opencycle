@@ -1,0 +1,1 @@
+[23-Aug-2013 21:52:57] PHP Fatal error:  Call to undefined function  register_activation_hook() in /home/u2953447/public_html/cms/wp-content/plugins/image-generator/imggen.php on line 73
